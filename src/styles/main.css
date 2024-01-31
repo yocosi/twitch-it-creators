@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #2c272f;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #bf94ff;
+}
+
